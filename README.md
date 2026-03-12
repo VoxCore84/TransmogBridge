@@ -1,5 +1,7 @@
 # TransmogBridge
 
+![Lua](https://img.shields.io/badge/lua-5.1-blue) ![License: MIT](https://img.shields.io/github/license/VoxCore84/TransmogBridge) ![GitHub release](https://img.shields.io/github/v/release/VoxCore84/TransmogBridge)
+
 WoW 12.x addon that patches a client serializer bug in the outfit-based transmog system.
 
 ## The Problem
